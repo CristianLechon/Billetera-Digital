@@ -2,10 +2,6 @@
 
 Este proyecto es un sistema de Billetera Digital desarrollado bajo una arquitectura de microservicios. Permite la autenticación segura de usuarios y la gestión del historial de transacciones (depósitos y retiros) con validación de saldos en tiempo real.
 
-## Link de Repositorio GitHub
-
-[Billetera Digital](https://github.com/alexander7475/Billetera-Digital.git)
-
 ## 🛠️ Tecnologías Utilizadas
 * **Backend:** C# .NET Core (APIs RESTful).
 * **Base de Datos:** SQL Server.
